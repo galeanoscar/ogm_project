@@ -1,0 +1,4 @@
+instrucciones para utilizar git:
+
+1. Utilizar git batch
+2. git init
